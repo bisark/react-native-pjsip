@@ -13,6 +13,7 @@
     "url": "https://github.com/datso/react-native-pjsip/issues"
   },
   "dependencies": {
+    "decompress": "^4.2.1",
     "events": "1.1.0"
   },
   "devDependencies": {
